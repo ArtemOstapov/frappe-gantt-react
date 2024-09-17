@@ -1,5 +1,5 @@
 {
-  "name": "@ArtemOstapov/frappe-gantt-react",
+  "name": "@artemostapov/frappe-gantt-react",
   "version": "0.2.3",
   "license": "MIT",
   "main": "./index.js",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ArtemOstapov/frappe-gantt-react"
+    "url": "https://github.com/artemostapov/frappe-gantt-react"
   },
   "bugs": {
-    "url": "https://github.com/ArtemOstapov/frappe-gantt-react/issues"
+    "url": "https://github.com/artemostapov/frappe-gantt-react/issues"
   },
   "keywords": [
     "react",
